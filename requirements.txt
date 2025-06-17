@@ -1,0 +1,23 @@
+# Core Scientific Libraries
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Jupyter Environment
+notebook>=7.0
+ipython>=8.10
+
+# Bayesian Inference / MCMC Samplers
+pymc>=5.0        # PyMC v5+ for probabilistic programming (optional if you're using emcee instead)
+arviz>=0.16      # For visualizing posterior distributions and diagnostics
+
+# Optional alternatives / tools
+emcee>=3.1       # The affine-invariant ensemble sampler (used widely in astro applications)
+corner>=2.2      # For corner plots (often used in parameter inference)
+
+# Plot styling / quality of life
+tqdm>=4.65       # For progress bars

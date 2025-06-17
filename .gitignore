@@ -1,0 +1,81 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# =====================
+# R
+# =====================
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+
+# R packages
+.Rcheck/
+*.Rproj
+*.Rhistory
+*.RData
+*.rds
+
+# =====================
+# Jupyter Notebooks
+# =====================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =====================
+# OS Generated Files
+# =====================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# =====================
+# Logs & temporary files
+# =====================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =====================
+# Output / Data Files
+# =====================
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.dat
+*.fits
+*.out
+*.pdf
+*.tex
+
+# =====================
+# VSCode / IDE settings
+# =====================
+.vscode/
+.idea/
