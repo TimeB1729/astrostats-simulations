@@ -32,8 +32,8 @@ Each notebook contains clear markdown explanations, references, and visualizatio
 
 These simulations were deeply influenced by the following **public resources**:
 
-- [📘 Bayesian Inference in Astronomy — Prof. Tom Loredo]()
-- [🧠 Murali Haran’s blog on MCMC and Statistical Thinking]()
+- [📘 Bayesian Inference in Astronomy — Prof. Tom Loredo](public_resources/bayes_loredo)
+- [🧠 Murali Haran’s blog on MCMC and Statistical Thinking](https://murali-haran.github.io/MCMCtut/MCMC.html)
 - [🧾 Sivia & Skilling's "Data Analysis: A Bayesian Tutorial"]()
 
 ---
