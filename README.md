@@ -19,7 +19,7 @@ All code and content in this repository is independently created or sourced from
 
 | Folder / File | Description |
 |---------------|-------------|
-| `notebooks/light_curve_simulation.ipynb` | Simulating noisy stellar light curves using sinusoidal and Gaussian processes |
+| `notebooks/noisy_light_curve_simulation.ipynb` | Simulating noisy stellar light curves using sinusoidal and Gaussian processes |
 | `notebooks/bayesian_signal_detection.ipynb` | Posterior inference for periodic signals embedded in noise |
 | `notebooks/hierarchical_star_modeling.ipynb` | A toy example of hierarchical Bayesian modeling for variable star brightness |
 | `notebooks/mcmc_sampling_playground.ipynb` | Experimenting with different MCMC samplers on simulated data |
