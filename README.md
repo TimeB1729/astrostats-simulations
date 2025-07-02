@@ -7,7 +7,6 @@ This repository contains my original simulations and model explorations, inspire
 This repo is a reflection of my post-course experimentation using:
 - **Bayesian inference**
 - **MCMC sampling**
-- **Hierarchical models**
 - **Signal detection in time series**
 
 ⚠️ **Note**: No official or copyrighted course content is distributed here.  
