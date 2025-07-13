@@ -18,8 +18,8 @@ All code and content in this repository is independently created or sourced from
 
 | Folder / File | Description |
 |---------------|-------------|
-| [`noisy_light_curve_simulation.ipynb`](my_notebooks/noisy_light_curve_simulation.ipynb) | Simulating noisy stellar light curves using sinusoidal and Gaussian processes |
-| [`bayesian_signal_detection.ipynb`](my_notebooks/posterior-inference-for-periodic-signals.ipynb) | Posterior inference for periodic signals embedded in noise |
+| [`noisy_light_curve_simulation.ipynb`](https://github.com/TimeB1729/noisy_light_curve_simulation) | Simulating noisy stellar light curves using sinusoidal and Gaussian processes |
+| [`bayesian_inference_for_periodic_signals.ipynb`](https://github.com/TimeB1729/posterior_inference_for_periodic_signals) | Posterior inference for periodic signals embedded in noise |
 | [`mcmc_sampling_playground.ipynb`](my_notebooks/mcmc_sampling_playground.ipynb) | Experimenting with different MCMC samplers on simulated data |
 
 Each notebook contains clear markdown explanations and visualizations.
